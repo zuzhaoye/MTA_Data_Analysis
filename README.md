@@ -8,4 +8,6 @@ Where we’d like to solicit your engagement is to use MTA subway data, which as
 ---
 
 `Project_Benson.ipynb` contains the data analysis for this project.  
-`Zip_Zhvi_Summary_AllHomes.csv` contains Zillow's Home Value Index data used within this project as well.
+`Zip_Zhvi_Summary_AllHomes.csv` contains Zillow's Home Value Index data used within this project as well.  
+The blog post can be found [here](https://zachheick.github.io/MTA-Data-Analysis/).
+
